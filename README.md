@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Sajjad from Amrita Vishwa Vidhyapeetham<br><br>- 🔭 I’m doing my Btech in Computer Science and Engineering<br>- 📚 I'm currently learning Data Science and Machine Learning<br>- ⚡ In my free time, I love to learn and experiment.</p>
+<p align="left">I'm Sajjad from Amrita Vishwa Vidhyapeetham<br><br>- 🔭 I’m doing my Btech in Computer Science and Engineering<br>- 🔭 Currently, I'm exploring Penetration Testing.<br>- ⚡ In my free time, I love to learn and experiment.</p>
 
 ###
 
