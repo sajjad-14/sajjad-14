@@ -104,6 +104,5 @@
 
 ###
 
-![gitartwork](gitartwork.svg)
 
 ###
