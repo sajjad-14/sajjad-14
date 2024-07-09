@@ -104,5 +104,6 @@
 
 
 
-![Snake animation](https://github.com/sajjad-14/sajjad-14/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](./dist/snake.svg)
+
 ###
