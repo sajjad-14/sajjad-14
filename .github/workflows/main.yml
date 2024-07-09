@@ -1,31 +1,18 @@
-name: Generate Snake Animation
-
-on:
-  schedule:
-    # Runs at 6:00 AM UTC every day
-    - cron: "0 6 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v2
-
-      - name: Generate the snake animation
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/snake.svg
-
-      - name: Add and commit the snake animation
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m "Generate snake animation"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: sajjad-14
+            # Text on contribution graph 
+            text: SAJJAD
+       - uses: jasineri/simple-push-action@v1
