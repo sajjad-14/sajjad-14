@@ -102,8 +102,8 @@
   <img src="https://streak-stats.demolab.com?user=sajjad-14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="155" alt="streak graph"  />
 </div>
 
+###
 
-
-![Snake animation](./dist/snake.svg)
+![gitartwork](gitartwork.svg)
 
 ###
