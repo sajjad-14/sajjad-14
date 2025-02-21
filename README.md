@@ -110,4 +110,4 @@
 ###
 
 
-<img height="400" src="https://tryhackme-badges.s3.amazonaws.com/Ryo1.png" alt="Your Image Badge" />
+<img height="300" src="https://tryhackme-badges.s3.amazonaws.com/Ryo1.png" alt="Your Image Badge" />
