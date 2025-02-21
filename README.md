@@ -103,8 +103,11 @@
   <img src="https://streak-stats.demolab.com?user=sajjad-14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="155" alt="streak graph"  />
 </div>
 
-<img height="200" src="https://tryhackme-badges.s3.amazonaws.com/Ryo1.png" alt="Your Image Badge" />
+
 ###
 
 
 ###
+
+
+<img height="400" src="https://tryhackme-badges.s3.amazonaws.com/Ryo1.png" alt="Your Image Badge" />
