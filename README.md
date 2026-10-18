@@ -100,14 +100,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sajjad-14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="155" alt="streak graph"  />
 </div>
 
-
 ###
 
-
 ###
-
 
 <img height="300" src="https://tryhackme-badges.s3.amazonaws.com/Ryo1.png" alt="Your Image Badge" />
